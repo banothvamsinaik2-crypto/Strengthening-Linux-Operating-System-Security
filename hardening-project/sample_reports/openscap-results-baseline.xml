@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arf:asset-report-collection xmlns:arf="http://scap.nist.gov/schema/asset-reporting-format/1.1" xmlns="http://checklists.nist.gov/xccdf/1.2">
+  <TestResult>
+    <rule-result idref="rule_1" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_2" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_3" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_4" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_5" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_6" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_7" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_8" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_9" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_10" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_11" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_12" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_13" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_14" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_15" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_16" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_17" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_18" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_19" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_20" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_21" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_22" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_23" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_24" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_25" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_26" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_27" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_28" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_29" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_30" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_31" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_32" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_33" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_34" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_35" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_36" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_37" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_38" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_39" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_40" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_41" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_42" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_43" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_44" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_45" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_46" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_47" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_48" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_49" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_50" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_51" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_52" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_53" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_54" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_55" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_56" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_57" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_58" severity="medium">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_59" severity="low">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_60" severity="high">
+      <result>pass</result>
+    </rule-result>
+    <rule-result idref="rule_61" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_62" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_63" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_64" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_65" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_66" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_67" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_68" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_69" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_70" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_71" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_72" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_73" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_74" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_75" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_76" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_77" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_78" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_79" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_80" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_81" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_82" severity="high">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_83" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_84" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_85" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_86" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_87" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_88" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_89" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_90" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_91" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_92" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_93" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_94" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_95" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_96" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_97" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_98" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_99" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_100" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_101" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_102" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_103" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_104" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_105" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_106" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_107" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_108" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_109" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_110" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_111" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_112" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_113" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_114" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_115" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_116" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_117" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_118" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_119" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_120" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_121" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_122" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_123" severity="medium">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_124" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_125" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_126" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_127" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_128" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_129" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_130" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_131" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_132" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_133" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_134" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_135" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_136" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_137" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_138" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_139" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_140" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_141" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_142" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_143" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_144" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_145" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_146" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_147" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_148" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_149" severity="low">
+      <result>fail</result>
+    </rule-result>
+    <rule-result idref="rule_150" severity="low">
+      <result>fail</result>
+    </rule-result>
+  </TestResult>
+</arf:asset-report-collection>

@@ -1,0 +1,56 @@
+{
+  "lynis": {
+    "hardening_index": {
+      "baseline": 56,
+      "hardened": 66,
+      "delta": 10
+    },
+    "warnings": {
+      "baseline": 2,
+      "hardened": 3,
+      "delta": 1
+    },
+    "suggestions": {
+      "baseline": 49,
+      "hardened": 42,
+      "delta": -7
+    }
+  },
+  "openscap": {
+    "compliance_percent": {
+      "baseline": 56.2,
+      "hardened": 69.8,
+      "delta": 13.6
+    },
+    "passed": {
+      "baseline": 132,
+      "hardened": 169,
+      "delta": 37
+    },
+    "failed": {
+      "baseline": 103,
+      "hardened": 73,
+      "delta": -30
+    },
+    "fail_by_severity": {
+      "baseline": {
+        "medium": 90,
+        "low": 5,
+        "high": 3,
+        "unknown": 5
+      },
+      "hardened": {
+        "medium": 62,
+        "low": 5,
+        "high": 2,
+        "unknown": 4
+      }
+    }
+  },
+  "summary": {
+    "lynis_index_gain": 10,
+    "openscap_compliance_gain": 13.6,
+    "warnings_resolved": -1,
+    "headline": "Lynis hardening index rose from 56 to 66 (+10). OpenSCAP CIS compliance rose from 56.2% to 69.8% (+13.6 points)."
+  }
+}
